@@ -1,0 +1,37 @@
+
+                        React - Front End Technology - library
+             ------------------------------------------------------
+        *****Command*****     
+1.create project:npx create-react-app project-name
+2.to run project :npm start                        
+
+
+        ***** Features *******
+    1.component Based Approach
+    2.JSX (javascript XML)
+    3.Virtual DOM 
+    4.Fast
+
+
+    5.Angular                      React                           Vue
+    ----------------------------------------------------------------------
+    -Framework :                   -Library :                      -Framework:
+        google(developed)          -Facebook(developed)           -Open Source(developed) 
+    -TypeScript                    -javascript                     -Javascript     
+    -Real DOM                      -Virtual DOM                     -Virtual DOM
+    -two way binding               -One way bindng                  two way binding
+    -
+    6.Components:(javascript file)  component file name  start with Capital letter
+       - Class Components /stateful Components
+       - Functional Components /stateless Components
+    7.conditional Rendering
+    8.State:Used to store data inside a Compoenets and it can be shared with other components as well
+            - syntax :const [state-name ,function-name to update state] = useState(initial-value)
+            - To update state: function-name(value-to-updated) - it will update state value 
+    9.Data sharing from parent to child (only one way binding is possible in react.)   
+        -using props we share data from parent to child.
+    10.React Hooks 
+        - useState():To generate state in Functional component 
+    11. To display an array :map array method       
+
+    
